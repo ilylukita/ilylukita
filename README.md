@@ -4,7 +4,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 📖 Eu estudo ADS (Análise e desenvolvimento de sistemas) e estou no primeiro semestre 
 - 💻 Atualmente aprendendo sobre Java e Banco de dados
