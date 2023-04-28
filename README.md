@@ -1,4 +1,4 @@
-# E aí, me chamo Lukas e meu apelido é Lukita
+# E aí, me chamo Lukas
 
 ## Bem vindo ao meu perfil do GitHub 😊
 
